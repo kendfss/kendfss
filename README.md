@@ -12,19 +12,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 - 🌱 I’m currently learning 
 -->
-My name's Kenneth. I'm a hobbyist, with a background in Physics, who likes [sound]() and is currently looking for work in software development.
-I've also
+My name's Kenneth. I'm a hobbyist, with a background in Physics, who likes [sound](). I'm currently interning at Wacapa Solutions and am also looking for full time work in software development.
+
 - :hammer: I’m currently working on  
-    - Generative Art
-    - An Arcade  
-    - Digital Audio Tools
+    - [Generative Art](https://github.com/kendfss/processing)
+    - [Digital Audio Tools](https://github.com/kendfss/monomaker)
 - :school_satchel: I’ve programmed (in order of competence)
-    - Python  
-        - Pandas  
-        - Requests  
-        - Numpy  
-        - PIL          
+    - Python    
+    - Golang
     - HTML/CSS/JavaScript  
+    - Processing/Java
     - C/C++  
     - Matlab  
 - NatLangs: 
@@ -32,7 +29,7 @@ I've also
     - :pt:
     - :es:
     - :de:
-- 😄 Pronouns: ken/eli/nzola/novato  
+- 😄 Pronouns: ken/eli/nzola  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kendfss)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kendfss)](https://github.com/anuraghazra/github-readme-stats)
     
