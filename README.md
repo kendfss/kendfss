@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 - 🌱 I’m currently learning 
 -->
-My name's Kenneth. I'm a hobbyist, with a background in Physics, who likes [sound](). I'm currently interning at Wacapa Solutions and am also looking for full time work in software development.
+My name's Kenneth. I'm a hobbyist, with a background in Physics, and a love for sound. I'm currently interning at Wacapa Solutions and am also looking for full time work in software development.
 
 - :hammer: I’m currently working on  
     - [Generative Art](https://github.com/kendfss/processing)
@@ -24,9 +24,9 @@ My name's Kenneth. I'm a hobbyist, with a background in Physics, who likes [soun
     - Processing/Java
     - C/C++  
     - Matlab  
-- NatLangs: 
+- I speak
     - :gb:
-    - :pt:
+    - :ao:
     - :es:
     - :de:
 - 😄 Pronouns: ken/eli/nzola  
