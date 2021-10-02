@@ -26,7 +26,7 @@ My name's Kenneth. I'm a hobbyist, with a background in Physics, and a love for 
     - Matlab  
 - I speak
     - :gb:
-    - :br:
+    - Portuguese
     - :es:
     - :de:
 - 😄 Pronouns: ken/eli/nzola  
