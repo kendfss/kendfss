@@ -1,7 +1,7 @@
 @font-face {
-  font-family: CascadiaCode;
-  src: url(CascadiaMono.ttf); }
+  font-family: Johnston100;
+  src: url(Johnston100.woff); }
 html {
-  font-family: CascadiaCode; }
+  font-family: Johnston100; }
 
 /*# sourceMappingURL=style.css.map */
