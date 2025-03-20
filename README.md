@@ -33,7 +33,7 @@ self := Noun{
     },
 }
 ```
-\*<small>This code was written for readability <i>and should not</i> be passed to a `go` compiler.</small>
+\*<small>This code was written for readability and should <i>not</i> be passed to a `go` compiler.</small>
 </details>
 
 <details><summary>here are some models</summary>
@@ -52,7 +52,7 @@ type (
 )
 ```
 <!-- <a href="">Let me explain</a> -->
-\*<small>This code was written for readability <i>and should not</i> be passed to a `go` compiler.</small>
+\*<small>This code was written for readability and should <i>not</i> be passed to a `go` compiler.</small>
 
 </details>
 <center>
