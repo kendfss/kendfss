@@ -7,7 +7,8 @@
     <!-- <a href="https://kendfss.xyz">stats</a> -->
     <!-- | <a href="https://node.kendfss.xyz">blog</a> -->
     <!-- | <a href="http://tildegit.org/kendfss">~gemini</a> -->
-    | <a href="http://tildegit.org/eli2and40">~git</a>
+    <!-- | <a href="http://tildegit.org/eli2and40">~git</a> -->
+    <a href="http://tildegit.org/eli2and40">~git</a>
     <!-- <a href=""></a> -->
     >
     <br>
@@ -60,4 +61,4 @@ type (
     <!-- chasing that feeling you get when the fact that B has bugs is the only reason you know that A is working; despite, and arguably because of, the futility of it all -->
     </i>
 </center>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kendfss&show_owner=true&layout=compact&exclude_repo=scrape&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kendfss&show_owner=true&layout=compact&exclude_repo=scrape&langs_count=10)  
