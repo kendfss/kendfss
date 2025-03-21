@@ -59,5 +59,5 @@ type (
     <i>
     <!-- chasing that feeling you get when the fact that B has bugs is the only reason you know that A is working; despite, and arguably because of, the futility of it all -->
     </i>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kendfss&show_owner=true&layout=compact&exclude_repo=scrape&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)  
 </center>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kendfss&show_owner=true&layout=compact&exclude_repo=scrape&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)  
