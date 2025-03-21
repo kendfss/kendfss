@@ -61,4 +61,4 @@ type (
     <!-- chasing that feeling you get when the fact that B has bugs is the only reason you know that A is working; despite, and arguably because of, the futility of it all -->
     </i>
 </center>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kendfss&show_owner=true&layout=compact&exclude_repo=scrape&langs_count=10)  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kendfss&show_owner=true&layout=compact&exclude_repo=scrape&langs_count=10"/>
